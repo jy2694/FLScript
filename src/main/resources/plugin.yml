@@ -1,0 +1,7 @@
+name: FLScript
+version: '${version}'
+main: com.teger.flscript.FLScript
+api-version: '1.19'
+authors: [K.Teger_]
+description: User Event-Focused Script Plugin 
+website: https://github.com/jy2694
